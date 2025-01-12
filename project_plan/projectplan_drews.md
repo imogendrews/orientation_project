@@ -84,4 +84,4 @@ I think the hardest thing for me in this project will be to use the framework Pa
 
 # Work Plan
 
-<img src="./images/project_timeline.jpg" alt="Work Plan" width="300">
+<img src="./images/project_timeline.jpg" alt="Work Plan">
