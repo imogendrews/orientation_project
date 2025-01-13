@@ -80,7 +80,7 @@ The categories that my project covers would be creative/artistic development, na
   Since this aspect of my project is the last one, I might not be able to complete it to its full extent but hopefully I will be able 
   to visually explore some of my findings in an impactful way and effectively convey my message to my viewers. 
   In terms of research/experimentation, I will focus on learning the processes involved in designing an experiment and connecting it to existing research
-  projects - and experience that will be valuable as I progress further in my studies. 
+  projects - an experience that will be valuable as I progress further in my studies. 
    In this project, my goal is to analyse the latent space of a Stable Diffusion 
     image-generation model in order to find what biases it contains. 
   Lastly, regarding software development, I will not be creating anything new but I will be using software to make my project
