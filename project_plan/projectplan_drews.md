@@ -89,7 +89,7 @@ The categories that my project covers would be creative/artistic development, na
 
 # System Diagram
 
-<img src="./images/system_diagram_final.jpg" alt="System Diagram" width="300">
+<img src="./images/system_diagram_final.jpg" alt="System Diagram" >
 
 # Unique Selling Point
 
