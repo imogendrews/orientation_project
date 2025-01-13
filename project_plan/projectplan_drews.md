@@ -21,8 +21,8 @@ In particular, it will be using ideas from the IAT (Implicit Association Test) t
 this by measuring the strength of automatic associations among different categories (e.g., race, gender or age) and attributes (e.g., good vs. bad, career vs. family).
   In this study, the authors presented their participants with a rapid sequence of words or images and told them to categorize 
   them into pairs as quickly as possible. The speed of the responses are important here as they indicate the 
-  strength of the implicit associations in the participants minds. I will be doing this with Stable Diffusion through the use of prompts
-   and will analyze how it associates different attributes with categories. Eg. CEO vs. homemaker with male and female attributes.
+  strength of the implicit associations in the participants minds. My prompts are based on the findings from these tests, and I use them to analyze how certatin attributes are associated with categories. 
+  Eg. CEO vs. homemaker with male and female attributes.
     In my tests on Stable Diffusion, I will primarily be examining its biases on gender, race, age and weight. So far the 20 prompts
      I am thinking  of using are the following:
 
@@ -60,12 +60,12 @@ this by measuring the strength of automatic associations among different categor
 
 Some of the methods on how to go about this research was influenced by the research paper *Smiling Women Pitching Down: Auditing Representational and Presentational Gender Biases* from the University of Wisconsin-Madison. In this study, the researchers decided to create 150 prompts, each representing a different occupation, and then generate 100 images per prompt. Altogether they generated 150 000 DALL-E 2 images which they then analysed for gender biases. They then used Amazon Rekognition to detect faces, identify gender and measure features like smiling and head pitch and then used tests such as Proportion Z-tests to see if there was a significant difference between gender distribution between DALL-E and Google Images and DALL-E and census data. They also used Generalized Linear Mixed Models to assess smiling by gender and occupation and Linear Mixed Models to evaluate the face pitch angle from the images. 
 
-This project will be doing a similar thing but on a smaller scale with 30 prompts of 100 images each. 
+This project will take a similar approach on a smaller scale, using 20 prompts with 100 images each. 
 The images will then be tagged using models such as CLIP or RAM to create datasets which I will then analyse using 
 various Python frameworks and libraries. At the moment, I am thinking of using Pandas to organize and analyse my data.
-Since I’m new to this, I anticipate that as I begin exploring and gaining a better understanding of these tools,
- I’ll likely discover additional tools and methods. At this stage, my approach remains flexible, and I’m open to experimenting 
- with different options.
+Since I’m new to this, I expect my approach to evolve as I explore and gain more familiarity, likely incorporating additional methods along the way.
+  My process will remain flexible, allowing room for experimentation. I also anticipate refining my prompts based on the biases I uncover as these 
+  findings will shape the narrative presented in the visualization phase. 
 
 ## Visualization
 
@@ -75,7 +75,17 @@ Since the creation of the website is not part of the new things that I will be l
 
 # Categorization 
 
-The categories that my project covers would be creative/artistic development, narrative development, software development and research/experimentation. In terms of creative/artistic development and narrative development this will be mainly seen in the website that I create. Since this aspect of my project is the last one, I might not be able to complete it to its full extent but hopefully I will be able to visually explore some of my findings in an impactful way and effectively convey my message to my viewers. In terms of software development, I will not be creating anything new but I will be using software to make my project which can be seen in the use of Stable Diffusion’s API, using Python tools for statistics and making my website using JavaScript. Lastly, my project has elements of research/experimentation with my goal being to analyse the latent space of a Stable Diffusion Image Generating model in order to find what biases it contains. 
+The categories that my project covers would be creative/artistic development, narrative development, research/experimentation and software development.
+ In terms of creative/artistic development and narrative development this will be mainly seen in the website that I create.
+  Since this aspect of my project is the last one, I might not be able to complete it to its full extent but hopefully I will be able 
+  to visually explore some of my findings in an impactful way and effectively convey my message to my viewers. 
+  In terms of research/experimentation, I will focus on learning the processes involved in designing an experiment and connecting it to existing research
+  projects - and experience that will be valuable as I progress further in my studies. 
+   In this project, my goal is to analyse the latent space of a Stable Diffusion 
+    image-generation model in order to find what biases it contains. 
+  Lastly, regarding software development, I will not be creating anything new but I will be using software to make my project
+   which can be seen in the use of Stable Diffusion’s API, using Python tools for statistics and making my website using JavaScript.
+ 
 
 # System Diagram
 
