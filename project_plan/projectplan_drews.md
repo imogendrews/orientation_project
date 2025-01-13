@@ -89,7 +89,7 @@ The categories that my project covers would be creative/artistic development, na
 
 # System Diagram
 
-<img src="./images/system_diagram.jpg" alt="System Diagram" width="300">
+<img src="./images/system_diagram_final.jpg" alt="System Diagram" width="300">
 
 # Unique Selling Point
 
@@ -114,4 +114,4 @@ Lastly, I think that implementing the backend using express.js and saving my dat
 
 # Work Plan
 
-<img src="./images/project_timeline.jpg" alt="Work Plan">
+<img src="./images/project_timeline_final.jpg" alt="Work Plan">
