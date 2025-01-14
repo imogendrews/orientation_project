@@ -47,14 +47,13 @@ The project explores how to translate code into physical materials. The process 
 
 [My pattern](https://editor.p5js.org/imoleadrews/sketches/Qwy5uF4z8)
 
-![Imogen Pattern](./assets/imogen_pattern.gif)
+
 
 
 # Task 01.05 - Greeting Card
 
 [Greeting Card](https://editor.p5js.org/imoleadrews/sketches/PujEZTfH6)
 
-![Imogen Card](./assets/imogen_card.gif)
 
 
 
